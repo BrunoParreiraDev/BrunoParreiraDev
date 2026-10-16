@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2499&pause=2000&width=855&lines=Ol%C3%A1%2C+eu+sou+Bruno+Parreira!;Sou+um+Desenvolvedor+Full+Stack.;Foco+em+Python+e+TypeScript.;Atualmente+trabalhando+com+Python+e+Next.js.;Desafios+s%C3%A3o+meu+combust%C3%ADvel!;Objetivos+futuros%3A+Tornar-me+um+desenvolvedor+mobile.;Geralmente+leio+livros+de+autoajuda+e+finan%C3%A7as.;Obrigado+Manoel+Carvalho+pelo+seu+conhecimento.)](https://brunin12.netlify.app)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2499&pause=2000&width=855&lines=Ol%C3%A1%2C+eu+sou+Bruno+Parreira!;Sou+um+Desenvolvedor+Full+Stack.;Foco+em+Python+e+TypeScript.;Atualmente+trabalhando+com+Python+e+Next.js.;Desafios+s%C3%A3o+meu+combust%C3%ADvel!;Geralmente+leio+livros+de+autoajuda+e+finan%C3%A7as.;Obrigado+Manoel+Carvalho+pelo+seu+conhecimento.)](https://brunin12.netlify.app)
 <br />
 
 
