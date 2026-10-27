@@ -31,8 +31,3 @@
 
 ---
 
-
-### 🏆 Troféus do GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrunoParreiraDev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Troféus do GitHub" width="100%">
-</div>
