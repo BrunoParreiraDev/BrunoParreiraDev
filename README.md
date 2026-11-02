@@ -22,15 +22,13 @@
 
 </div>
 
-<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d1117&text=%3C%2F%3E&fontColor=007acc&fontSize=80&fontAlignY=55&stroke=38bdf8&strokeWidth=1" />
-
 Sou **Desenvolvedor Full Stack**, com foco principal em **Python e TypeScript (Next.js no front-end)**.
 
 Acredito que **desafios são o meu combustível** e estou sempre buscando transformar ideias e regras de negócio em soluções eficientes, escaláveis e com ótima experiência de usuário.
 
 Atualmente, meu foco está em:
 
-- 🐍 Desenvolvimento backend resiliente com **Python (Django)**
+- 🐍 Desenvolvimento backend com **Python (Django)**
 - ⚡ Front-end moderno e reativo com **TypeScript, React e Next.js**
 - 🔌 Construção e integração de **APIs REST**
 - 🗄️ Persistência de dados e plataformas **Firebase**
